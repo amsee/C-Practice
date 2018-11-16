@@ -1,6 +1,8 @@
 // Truncation with Assignment Operators
 // truncation.c
 
+#include <stdio.h>
+
 int main(void)
 {
 	double cash;
@@ -13,3 +15,9 @@ int main(void)
 
 	return 0;
 }
+
+/*
+OUTPUT
+Cash? 23.45
+23 loonies.
+*/
