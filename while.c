@@ -13,3 +13,11 @@ int main(void)
 	}
 	return 0;
 }
+
+/* OUTPUT
+
+Gulp! Slices left 3
+Gulp! Slices left 2
+Gulp! Slices left 1
+Gulp! Slices left 0
+*/
