@@ -6,7 +6,7 @@
 int main(void) {
 
 	int grade = 0;
-	int sup = 0;
+	int sup = 1;
 
 	if (grade < 50)
 	{
@@ -23,6 +23,6 @@ int main(void) {
 
 /* OUTPUT
 
-Failed
+Sup
 
 */
