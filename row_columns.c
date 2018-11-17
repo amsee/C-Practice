@@ -1,0 +1,26 @@
+// Rows and Columns
+// row_columns.c
+
+#include <stdio.h>
+
+int main(void)
+{
+	int i, j;
+	for (i = 0; i < 5; i++) {
+		for (j = 0; j < 5; j++) {
+			printf("%d,%d  ", i, j);
+		}
+		printf("\n");
+	}
+
+	return 0;
+
+/* OUTPUT
+
+0,0  0,1  0,2  0,3  0,4
+1,0  1,1  1,2  1,3  1,4
+2,0  2,1  2,2  2,3  2,4
+3,0  3,1  3,2  3,3  3,4
+4,0  4,1  4,2  4,3  4,4
+
+*/
