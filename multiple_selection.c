@@ -1,7 +1,7 @@
 // Compound Conditions
 // multiple_selection.c
 
-#include <stdio.h>
+#include 
 
 int main(void)
 {
